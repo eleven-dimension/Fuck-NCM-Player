@@ -1,0 +1,12 @@
+{
+  "name": "fuck-vcm-player",
+  "version": "1.0.0",
+  "description": "A local music player built with Electron and Vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "eleven-dimension, czsnb",
+  "license": "MIT"
+}
