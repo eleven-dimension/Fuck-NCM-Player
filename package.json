@@ -1,5 +1,5 @@
 {
-  "name": "fuck-vcm-player",
+  "name": "fuck-ncm-player",
   "version": "1.0.0",
   "description": "A local music player built with Electron and Vue.",
   "main": "index.js",
